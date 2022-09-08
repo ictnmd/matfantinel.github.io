@@ -42,7 +42,7 @@
 	</li>
 	<li class="website">
 		<span class="icon"><InternetIcon /></span>
-		<a href="https://fantinel.dev" target="_blank"> fantinel.dev </a>
+		<a href="https://ducblog.bikip.pro" target="_blank"> fantinel.dev </a>
 	</li>
 	<li class="github">
 		<span class="icon"><GitHubIcon /></span>
