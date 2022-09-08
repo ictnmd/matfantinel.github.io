@@ -77,7 +77,7 @@
 
 								<a
 									class="text-secondary"
-									href="https://pocketcompanion.fantinel.dev/"
+									href="https://pocketcompanion.ducblog.bikip.pro/"
 									target="_blank"
 									rel="noopener"
 									title="Open site"

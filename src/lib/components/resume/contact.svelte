@@ -34,7 +34,7 @@
 	</li>
 	<li class="email">
 		<span class="icon"><EmailIcon /></span>
-		<a href="mailto:matt@fantinel.dev">matt@fantinel.dev</a>
+		<a href="mailto:matt@ducblog.bikip.pro">matt@ducblog.bikip.pro</a>
 	</li>
 	<li class="linkedin">
 		<span class="icon"><LinkedInIcon /></span>
@@ -42,7 +42,7 @@
 	</li>
 	<li class="website">
 		<span class="icon"><InternetIcon /></span>
-		<a href="https://ducblog.bikip.pro" target="_blank"> fantinel.dev </a>
+		<a href="https://ducblog.bikip.pro" target="_blank"> ducblog.bikip.pro </a>
 	</li>
 	<li class="github">
 		<span class="icon"><GitHubIcon /></span>

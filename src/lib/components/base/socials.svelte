@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/matheus-fantinel/" target="_blank" rel="noopener" title="Connect on LinkedIn">
     <LinkedInIcon />
   </a>
-  <a href="mailto:matt@fantinel.dev" target="_blank" rel="noopener" title="Send an email to matt@fantinel.dev">
+  <a href="mailto:matt@ducblog.bikip.pro" target="_blank" rel="noopener" title="Send an email to matt@ducblog.bikip.pro">
     <EmailIcon />
   </a>
   <a href="/rss.xml" target="_blank" rel="noopener" title="Subscribe to my RSS Feed">

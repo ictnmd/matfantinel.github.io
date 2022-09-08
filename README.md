@@ -1,4 +1,4 @@
-# matfantinel.github.io / fantinel.dev
+# matfantinel.github.io / ducblog.bikip.pro
 
 This is my own personal website, built with SvelteKit. It also holds my own personal blog.
 
