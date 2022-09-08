@@ -11,6 +11,7 @@
     "postbuild": "svelte-sitemap --domain https://ducblog.bikip.pro --trailing-slashes true"
   },
   "devDependencies": {
+    "@sveltejs/adapter-cloudflare": "^1.0.0-next.32",
     "@sveltejs/adapter-static": "^1.0.0-next.29",
     "@sveltejs/kit": "next",
     "eslint": "^7.22.0",
